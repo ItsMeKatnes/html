@@ -10,12 +10,12 @@ body{
 .main-width{
     width: 1400px;
     max-width:100%;
+    height:auto;
     margin: 0 auto;
 }
 .Hero{
     height: 100%;
     width: 100%;
-    min-height: 100vh;
     background: radial-gradient(#991973,20%, #701183);
     position: relative;
 }
